@@ -21,4 +21,4 @@ Open your browser, and enter localhost, localhost:81, localhost:82
 |------|---|---|
 |instantly render, but process 10 wait...|render after 10 wait|instantly render|
 
-[Look at fastcgi_finish_request() and Symfony\Component\HttpFoundation\Response]
+Look at fastcgi_finish_request() and Symfony\Component\HttpFoundation\Response
