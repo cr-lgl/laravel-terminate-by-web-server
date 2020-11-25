@@ -5,7 +5,7 @@ An example of how Laravel terminate works.
 
 ```
 cp .env.example .env
-cp docker/.env.example .env
+cp docker/.env.example docker/.env
 
 make start
 make composer
